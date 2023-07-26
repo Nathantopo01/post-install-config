@@ -109,7 +109,6 @@ Here, we can set some levels you can say as to how severe certain tickets are, e
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 And that is all that I am going to be covering here about this, if you want to mess around with things a bit more go for it, if not make sure to clean up your Azure portal so it does not rack up a huge bill, have a beautiful day and cheers!
